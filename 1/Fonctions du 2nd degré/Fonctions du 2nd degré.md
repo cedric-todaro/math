@@ -118,33 +118,37 @@ Variations de $ax^2+bx+c$
 
 ---
 
-A FINIRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+Il existe un moyen pour se souvenir du résultat précedent :
+
+![bg fit right:50%](img/00.png)
 
 ---
 
-Il existe un moyen pour se souvenir du résultat précedent :
+### Méthode : Etudier les variations d'une fonction du 2^nd^ degré
 
-![](media/img03.png){width="40%"}
+Soit $f$ définie sur $\mathbb{R}$ par $f\left( x \right) = -x^{2} + 4x - 1$.
 
-### Méthode : Etudier les variations d'une fonction du 2^nd^ degré {-}
+On a $\quad a=-1$ , $b=4$ et $c=-1$. 
 
-> Étudier les variations de la fonction $f$ définie sur $\mathbb{R}$ par $f\left( x \right) = -x^{2} + 4x - 1$.
-
-On a $f(x)=-x^{2}+4x-1$, donc $a=-1$ , $b=4$ et $c=-1$. 
-
-$\alpha=\dfrac{-b}{2a} = \dfrac{-4}{2\times (-1)}= 2$ et $\beta=f(\alpha)=f(2)=-(2)^2+4\times 2 -1 =3$ 
+$\alpha=\dfrac{-b}{2a} = \dfrac{-4}{2\times (-1)}= 2\quad$ et $\quad\beta=f(\alpha)=f(2)=-(2)^2+4\times 2 -1 =3$ 
 
 Le sommet de la parabole est le point $S(2;3)$.
 
+---
+
 $a<0$ donc le tableau de variation de $f$ est :
-\begin{center}
-\begin{tikzpicture}
-   \tkzTabInit{$x$ / 0.75 , $f(x)$ / 1.5}{$+\infty$, $2$, $+\infty$}
-   \tkzTabVar{-/ $-\infty$, +/ $3$, -/ $-\infty$}
-\end{tikzpicture}
-\end{center}
+
+![w:800](img/04.png)
+
+![bg fit right:30%](img/05.png)
+
+---
 
 Et sa représentation graphique est :
+
+A FINIRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+---
 
 \begin{center}
 \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
