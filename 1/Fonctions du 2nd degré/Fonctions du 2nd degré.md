@@ -232,7 +232,7 @@ $$f(x)=3(x-1)(x+2)$$
 
 # Résolution d'équations du 2$^\text{nd}$ degré
 
-Résoudre une équation du 2$^\text{nd}$ degré, c'est résoudre une équation du type 
+Résoudre une équation du 2$^\text{nd}$ degré, c'est résoudre une équation du type
 
 $$ax^2+bx+c=0$$
 
@@ -572,7 +572,7 @@ La droite d’équation $x = 3$ est donc axe de symétrie de la parabole.
 
 ![bg fit right:35%](img/17.png)
 
-Les coordonnées de son sommet sont 
+Les coordonnées de son sommet sont
 $$\left( - \frac{b}{2a}\ ;\ f\left( - \frac{b}{2a} \right) \right)$$
 
 Soit :
