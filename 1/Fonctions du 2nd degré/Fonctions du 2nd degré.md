@@ -4,9 +4,9 @@ header : Fonctions du 2nd degré [:cinema:](https://www.youtube.com/playlist?lis
 footer : 1 Spé Math - Lycée Paul Painlevé
 ---
 
-![bg fit right:40%](img/00.png)
-
 # Fonctions du 2$^\text{nd}$ degré
+
+![bg fit right:40%](img/00.png)
 
 ---
 
@@ -161,7 +161,9 @@ f(x) & = (x-1)(x-2)\\
 
 ## Définition
 
-Soit $f$ une fonction définie sur $\mathbb{R}$ tel que : $$f(x)=a(x-x_1)(x-x_2)$$
+Soit $f$ une fonction définie sur $\mathbb{R}$ tel que :
+
+$$f(x)=a(x-x_1)(x-x_2)$$
 
 $f$ est la forme **factorisée** d'une fonction du 2$^\text{nd}$ degré.
 
@@ -173,7 +175,8 @@ $x_1$ et $x_2$ sont les **racines** de $f$
 
 les **racines** de $f$ sont solutions de l'équation $f(x)=0$.
 
-$f(x_1) = a(x_1 - x_1)(x_1 - x_2)=0$ et $f(x_2) = a(x_2 - x_1)(x_2 - x_2)=0$.
+* $f(x_1) = a(x_1 - x_1)(x_1 - x_2)=0$
+* $f(x_2) = a(x_2 - x_1)(x_2 - x_2)=0$
 
 ---
 
@@ -209,7 +212,7 @@ $$f(x)=(3-x)(2x+1)$$
 
 ## Propriété : Racines de $f(x)$
 
-Soit $f$ une fonction définie sur $\mathbb{R}$ tel que $f(x)=ax^2+bx+c$ et $x_1$ ,$x_2$ les solutions de l'équation $f(x)=0$.
+Soit $f$ une fonction définie sur $\mathbb{R}$ tel que $f(x)=ax^2+bx+c~$ et $~x_1~$,$~x_2~$ les solutions de l'équation $f(x)=0$.
 
 Alors la forme **factorisée** de $f$ est : $f(x)=a(x-x_1)(x-x_2)$
 
@@ -229,7 +232,9 @@ $$f(x)=3(x-1)(x+2)$$
 
 # Résolution d'équations du 2$^\text{nd}$ degré
 
-Résourdre une équation du 2$^\text{nd}$ degré, c'est résoudre une équation du type $ax^2+bx+c=0$.
+Résoudre une équation du 2$^\text{nd}$ degré, c'est résoudre une équation du type 
+
+$$ax^2+bx+c=0$$
 
 ---
 
@@ -246,7 +251,7 @@ $$\boxed{\Delta = b^2-4ac}$$
 Soit $\Delta$ le discriminant du trinôme $ax^{2} + bx + c$.
 
 * Si $\Delta < 0$ : L'équation $ax^{2} + bx + c = 0$ n'a **pas de solution réelle**.
-* Si $\Delta = 0$ : L'équation $ax^{2} + bx + c = 0$ a **une unique solution** : $\boxed{x_{0}=\dfrac{- b}{2a}}$.
+* Si $\Delta = 0$ : L'équation $ax^{2} + bx + c = 0$ a **une unique solution** : $\boxed{x_{0}=\dfrac{- b}{2a}}$
 
 ---
 
@@ -343,9 +348,9 @@ P & = x_1 \times x_2\\
 
 Soit $f$ une fonction polynôme de degré $2$ définie sur par $f\left( x \right) = ax^{2} + bx + c$.
 
-- Si $\Delta = 0$ : Pour tout réel $x$, on a : $f\left( x \right) = a\left( x - x_{0} \right)^{2}$.
+* Si $\Delta = 0$ : Pour tout réel $x$, on a : $f\left( x \right) = a\left( x - x_{0} \right)^{2}$.
 
-- Si $\Delta > 0$ : Pour tout réel $x$, on a : $f\left( x \right) = a\left( x - x_{1} \right)\left( x - x_{2} \right)$.
+* Si $\Delta > 0$ : Pour tout réel $x$, on a : $f\left( x \right) = a\left( x - x_{1} \right)\left( x - x_{2} \right)$.
 
 ### Remarque
 
@@ -443,7 +448,6 @@ $f(x)=2(x-1)^2+3$ est une fonction du 2$^\text{nd}$ degré sous forme **canoniqu
 ---
 
 ### Méthode : Déterminer la forme canonique d'une fonction du 2$^\text{nd}$ degré
-
 
 Soit la fonction $f$ définie sur $\mathbb{R}$ par : $f\left( x \right) = 2x^{2} - 20x + 10$. On veut exprimer la fonction $f$ sous sa forme canonique.
 
@@ -554,11 +558,11 @@ On peut retenir que $f$ admet un maximum (ou un minimum) pour $x = -\dfrac{b}{2a
 
 ### Méthode : Déterminer les caractéristiques d’une parabole
 
-Déterminer l’axe de symétrie et le sommet de la parabole d’équation
+Déterminons l’axe de symétrie et le sommet de la parabole d’équation
 
 $$y = 2x^{2} - 12x + 1$$
 
-* La parabole possède un axe de symétrie d'équation $x = -\frac{b}{2a}$
+La parabole possède un axe de symétrie d'équation $x = -\frac{b}{2a}$
 
 $$x = -\frac{- 12}{2 \times 2} = 3$$
 
@@ -568,9 +572,12 @@ La droite d’équation $x = 3$ est donc axe de symétrie de la parabole.
 
 ![bg fit right:35%](img/17.png)
 
-Les coordonnées de son sommet sont : $\left( - \frac{b}{2a}\ ;\ f\left( - \frac{b}{2a} \right) \right)$, soit : 
+Les coordonnées de son sommet sont 
+$$\left( - \frac{b}{2a}\ ;\ f\left( - \frac{b}{2a} \right) \right)$$
 
-$$\left( 3\ ;2 \times 3^{2} - 12 \times 3 + 1 \right) = \left( 3\ ;\  - 17 \right)$$
+Soit :
+
+$$\left( 3\ ;2 \times 3^{2} - 12 \times 3 + 1 \right) = \left( 3\ ;\ - 17 \right)$$
 
 Le point $\left( 3\ ;\  - 17 \right)$ est le sommet de la parabole.
 
@@ -608,8 +615,7 @@ L'équation n'a qu'une seule solution : $x = \frac{-b}{2a}$
 
 ---
 
-- Si $\Delta > 0$ : L'équation $ax^{2} + bx + c = 0$ est équivalente à :
-
+* Si $\Delta > 0$ : L'équation $ax^{2} + bx + c = 0$ est équivalente à :
 
 Solution n°1 | Solution n°2
 ---------|----------
